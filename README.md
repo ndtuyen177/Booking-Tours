@@ -1,7 +1,10 @@
 # Booking-Tours 
 
 ### Deployed Heroku:
-  https://booking-tours-ndt.herokuapp.com/login
+  https://booking-tours-ndt.herokuapp.com
+  
+  *(Can test email: sophie@example.com, pass: 123456789 or signup
+  )*
 
 ### Features:
 1) Authentication and Authorization
